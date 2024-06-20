@@ -1,14 +1,14 @@
 env:
   # Get these values from the Firebase console
-  - variable: AIzaSyCNpyR2mKEhUuUtIDKrgTPbAydy9q6CMD4
+  - variable: "AIzaSyCNpyR2mKEhUuUtIDKrgTPbAydy9q6CMD4"
     value: TODO
-  - variable: friendlyeats-codelab-70c17.firebaseapp.com
+  - variable: "friendlyeats-codelab-70c17.firebaseapp.com"
     value: TODO
-  - variable: friendlyeats-codelab-70c17
+  - variable: "friendlyeats-codelab-70c17"
     value: TODO
-  - variable: friendlyeats-codelab-70c17.appspot.com
+  - variable: "friendlyeats-codelab-70c17.appspot.com"
     value: TODO
-  - variable: 620849183639
+  - variable: "620849183639"
     value: TODO
-  - variable: 1:620849183639:web:5919e4f589b4d9e2a4a2d2
+  - variable: "1:620849183639:web:5919e4f589b4d9e2a4a2d2"
     value: TODO
