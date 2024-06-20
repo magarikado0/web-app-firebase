@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "next-app": "friendlyeats-codelab-70c17",
+    "friendlyeats-codelab": "friendlyeats-codelab-70c17"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
